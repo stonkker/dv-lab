@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas
+numpy
+matplotlib
+altair
+geopandas
+wordcloud
+vaderSentiment
